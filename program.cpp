@@ -6,4 +6,5 @@ int main(){
     cout<<"git status: for checking the status of the file if it is tracked or untracked"<<endl;
     cout<<"making changes here and then pushing the file again"<<endl;
     cout<<"Now making some another change and pushing it on my own"<<endl;
+    cout<<"Feature 1 is being developed"<<endl;
 }
