@@ -7,4 +7,5 @@ int main(){
     cout<<"making changes here and then pushing the file again"<<endl;
     cout<<"Now making some another change and pushing it on my own"<<endl;
     cout<<"Feature 1 is being developed"<<endl;
+    cout<<"THIS IS COMING FROM THE MAIN BRANCH "<<endl;
 }
